@@ -4,7 +4,7 @@ Installing Flask and requests: To install Flask, open the command line and enter
 
 Registering on OpenWeatherMap and obtaining API key: To obtain an API key for OpenWeatherMap, go to the official OpenWeatherMap website (https://openweathermap.org/) and register for free. After registration, go to the API keys section and create a new API key.
 
-Link to the workspace in Postman: https://www.postman.com/reader1/workspace/weatherapp
+Link to the workspace in Postman: https://www.postman.com/payload-physicist-4603327/workspace/weatherapp
 
 Running the application: Run the application. The application will be available at http://127.0.0.1:5000/.
 
